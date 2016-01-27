@@ -21,13 +21,13 @@ define('WP_SITEURL','http://viicarttest-22120261.us-east-1.elb.amazonaws.com');
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'wordpress');
+define('DB_NAME', 'viicarttest');
 
 /** MySQL database username */
-define('DB_USER', 'wordpress');
+define('DB_USER', 'viicarttest');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'wordpress');
+define('DB_PASSWORD', 'viicarttest');
 
 /** MySQL hostname */
 define('DB_HOST', 'viicarttest.c4zxdnat3jdk.us-east-1.rds.amazonaws.com');
