@@ -16,8 +16,8 @@
 
 define('WP_REDIS_HOST', 'viicarttest.33s682.0001.use1.cache.amazonaws.com');
  
-define('WP_HOME','http://viicarttest-22120261.us-east-1.elb.amazonaws.com');
-define('WP_SITEURL','http://viicarttest-22120261.us-east-1.elb.amazonaws.com');
+define('WP_HOME','http://beta.viihub.com/');
+define('WP_SITEURL','http://beta.viihub.com/');
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
